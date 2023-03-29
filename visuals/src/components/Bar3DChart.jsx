@@ -23,7 +23,7 @@ const Bar3DChart = () => {
   });
 
   return (
-    <div style={{ display: 'flex', justifyContent: 'center'}}>
+    <div style={{ display: 'flex', justifyContent: 'center', marginTop:'40px'}}>
     <Bar
       chartType="ColumnChart"
       data={chartData}

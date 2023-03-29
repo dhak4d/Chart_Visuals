@@ -24,7 +24,7 @@ const LineGraph = () => {
           <XAxis dataKey="Year" stroke="#1890ff">
             <Label value="Years" position="bottom" fill="#78ADD2" offset={-50} />
           </XAxis>
-          <YAxis stroke="#ff7f50">
+          <YAxis stroke="#21AA47">
             <Label value="Sum Of Sales" position="left" angle={-90} fill="#0072AA" offset={-70} />
           </YAxis>
           <Tooltip />

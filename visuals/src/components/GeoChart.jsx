@@ -25,7 +25,7 @@ const GeoChart = () => {
 
   return (
     <>
-    <h5 style={{textAlign:'center',marginTop:'15px' }}>Population Explorer</h5>
+    <h4 style={{textAlign:'center',marginTop:'15px' }}>Population Explorer</h4>
     <div style={{ marginTop:'50px', color:'black' }}>
     <Chart
       chartType="GeoChart"
