@@ -1,0 +1,145 @@
+{
+    "years":
+    [
+        {
+            "Year": "2010" , "SumOfSales": "13894163"
+        },
+        {
+            "Year": "2011" , "SumOfSales": "15710758"
+        },
+        {
+            "Year": "2012" , "SumOfSales": "16854413"
+        },
+        {
+            "Year": "2013" , "SumOfSales": "16723019"
+        },
+        {
+            "Year": "2014" , "SumOfSales": "17972595"
+        },
+        {
+            "Year": "2015" , "SumOfSales": "17686790"
+        },
+        {
+            "Year": "2016" , "SumOfSales": "17910320"
+        },
+        {
+            "Year": "2017" , "SumOfSales": "18448033"
+        },
+        {
+            "Year": "2018" , "SumOfSales": "20351620"
+        },
+        {
+            "Year": "2019" , "SumOfSales": "21018395"
+        },
+        {
+            "Year": "2020" , "SumOfSales": "18952091"
+        }
+       
+    ],
+    "IndustrialSector" :
+    [
+        { "IndustrialSector" : "Aerospace & Defence" , "SumOfProfits" : "387409.19"},
+        { "IndustrialSector" : "Alternative Energy" , "SumOfProfits" : "7448.61"},
+        { "IndustrialSector" : "Automobiles & Parts" , "SumOfProfits" : "1272000.78"},
+        { "IndustrialSector" : "Banks" , "SumOfProfits" : "734744.65"},
+        { "IndustrialSector" : "Beverages" , "SumOfProfits" : "270453.22"},
+        { "IndustrialSector" : "Biotechnology" , "SumOfProfits" : "-192361.37"},
+        { "IndustrialSector" : "Chemicals" , "SumOfProfits" : "831481.68"},
+        { "IndustrialSector" : "Commercial Vehicles & Trucks" , "SumOfProfits" : "176.12"},
+        { "IndustrialSector" : "Computer Hardware" , "SumOfProfits" : "278.72"},
+        { "IndustrialSector" : "Computer Services" , "SumOfProfits" : "186.04"},
+        { "IndustrialSector" : "Construction & Materials" , "SumOfProfits" : "547897.81"},
+        { "IndustrialSector" : "Electrical equipment" , "SumOfProfits" : "-6388536.47"},
+        { "IndustrialSector" : "Electricity" , "SumOfProfits" : "375453.87"},
+        { "IndustrialSector" : "Electronic & Electrical equipment" , "SumOfProfits" : "87839.7"},
+        { "IndustrialSector" : "Electronic Equipment" , "SumOfProfits" : "881345"},
+        { "IndustrialSector" : "Equity Investment Instruments" , "SumOfProfits" : "501.16"},
+        { "IndustrialSector" : "Financial Services" , "SumOfProfits" : "121156.6"},
+        { "IndustrialSector" : "Fixed Line Telecommunications" , "SumOfProfits" : "634079.03"},
+        { "IndustrialSector" : "Food & Drug Retailers" , "SumOfProfits" : "34696.08"},
+        { "IndustrialSector" : "Food Producers" , "SumOfProfits" : "520213.44"},
+        { "IndustrialSector" : "Forestry & Paper" , "SumOfProfits" : "44341.52"},
+        { "IndustrialSector" : "Gas & Water" , "SumOfProfits" : "148021.42"},
+        { "IndustrialSector" : "General Industrials" , "SumOfProfits" : "492844.22"},
+        { "IndustrialSector" : "General Retailers" , "SumOfProfits" : "96992.93"},
+        { "IndustrialSector" : "Health care equipment & services" , "SumOfProfits" : "349139.78"},
+        { "IndustrialSector" : "Household Goods & Home Construction" , "SumOfProfits" : "312967.42"},
+        { "IndustrialSector" : "Industrial Engineering" , "SumOfProfits" : "711255.49"},
+        { "IndustrialSector" : "Industrial Machinery" , "SumOfProfits" : "474.68"},
+        { "IndustrialSector" : "Industrial Metals & Mining" , "SumOfProfits" : "204347.11"},
+        { "IndustrialSector" : "Industrial Transportation" , "SumOfProfits" : "47529.18"},
+        { "IndustrialSector" : "Internet" , "SumOfProfits" : "330.98"},
+        { "IndustrialSector" : "Leisure goods" , "SumOfProfits" : "169787.6"},
+        { "IndustrialSector" : "Life Insurance" , "SumOfProfits" : "-101948.58"},
+        { "IndustrialSector" : "Media" , "SumOfProfits" : "69243.33"},
+        { "IndustrialSector" : "Mining" , "SumOfProfits" : "348291.4"},
+        { "IndustrialSector" : "Mobile Telecommunications" , "SumOfProfits" : "74370.11"},
+        { "IndustrialSector" : "Nonequity Investment Instruments" , "SumOfProfits" : "381.3"},
+        { "IndustrialSector" : "Nonlife Insurance" , "SumOfProfits" : "854.51"},
+        { "IndustrialSector" : "Oil & Gas Producers" , "SumOfProfits" : "2234612.27"},
+        { "IndustrialSector" : "Oil Equipment, Services & Distribution" , "SumOfProfits" : "189720.33"},
+        { "IndustrialSector" : "Other Financials" , "SumOfProfits" : "5651.47"},
+        { "IndustrialSector" : "Personal & Household Goods" , "SumOfProfits" : "708"},
+        { "IndustrialSector" : "Personal Goods" , "SumOfProfits" : "311169.28"},
+        { "IndustrialSector" : "Pharmaceuticals" , "SumOfProfits" : "1407476.6"},
+        { "IndustrialSector" : "Real Estate Investment & Services" , "SumOfProfits" : "55731.2"},
+        { "IndustrialSector" : "Semiconductors" , "SumOfProfits" : "1333.28"},
+        { "IndustrialSector" : "Software & Computer Services" , "SumOfProfits" : "1381336.74"},
+        { "IndustrialSector" : "Support Services" , "SumOfProfits" : "125623.88"},
+        { "IndustrialSector" : "Technology Hardware & Equipment" , "SumOfProfits" : "1704326.66"},
+        { "IndustrialSector" : "Telecommunications" , "SumOfProfits" : "73.86"},
+        { "IndustrialSector" : "Telecommunications equipment" , "SumOfProfits" : "-78.41"},
+        { "IndustrialSector" : "Tobacco" , "SumOfProfits" : "296930.9"},
+        { "IndustrialSector" : "Toys" , "SumOfProfits" : "105.49"},
+        { "IndustrialSector" : "Travel & Leisure" , "SumOfProfits" : "162434.04"}
+    ],
+    "Country":
+        [          
+{ "Country" : "Cayman Islands" , "Population" : "147565"},
+{ "Country" : "China" , "Population" : "1439323776"},
+{ "Country" : "Colombia" , "Population" : "38921"},
+{ "Country" : "Czech Republic" , "Population" : "33460"},
+{ "Country" : "Denmark" , "Population" : "863142"},
+{ "Country" : "Finland" , "Population" : "1149026"},
+{ "Country" : "France" , "Population" : "11726498"},
+{ "Country" : "Germany" , "Population" : "18413130"},
+{ "Country" : "Greece" , "Population" : "17878"},
+{ "Country" : "Hong Kong" , "Population" : "270611"},
+{ "Country" : "Hungary" , "Population" : "14561"},
+{ "Country" : "Iceland" , "Population" : "9904"},
+{ "Country" : "India" , "Population" : "1380004385"},
+{ "Country" : "Iraq" , "Population" : "5888"},
+{ "Country" : "Ireland" , "Population" : "1592270"},
+{ "Country" : "Israel" , "Population" : "436401"},
+{ "Country" : "Italy" , "Population" : "3727633"},
+{ "Country" : "Japan" , "Population" : "31601001"},
+{ "Country" : "Liechtenstein" , "Population" : "42036"},
+{ "Country" : "Luxembourg" , "Population" : "816736"},
+{ "Country" : "Malaysia" , "Population" : "297552"},
+{ "Country" : "Malta" , "Population" : "5183"},
+{ "Country" : "Mexico" , "Population" : "123692"},
+{ "Country" : "Netherlands" , "Population" : "4278455"},
+{ "Country" : "New Zealand" , "Population" : "125569"},
+{ "Country" : "Norway" , "Population" : "1224368"},
+{ "Country" : "Poland" , "Population" : "2201"},
+{ "Country" : "Portugal" , "Population" : "193891"},
+{ "Country" : "Russia" , "Population" : "1331979"},
+{ "Country" : "Saudi Arabia" , "Population" : "1177240"},
+{ "Country" : "Singapore" , "Population" : "146377"},
+{ "Country" : "Slovenia" , "Population" : "14833"},
+{ "Country" : "South Africa" , "Population" : "143317"},
+{ "Country" : "South Korea" , "Population" : "9108190"},
+{ "Country" : "Spain" , "Population" : "2708606"},
+{ "Country" : "Sweden" , "Population" : "2116491"},
+{ "Country" : "Switzerland" , "Population" : "3966512"},
+{ "Country" : "Taiwan" , "Population" : "5125375"},
+{ "Country" : "Thailand" , "Population" : "8535"},
+{ "Country" : "Turkey" , "Population" : "429871"},
+{ "Country" : "UK" , "Population" : "13637030"},
+{ "Country" : "Ukraine" , "Population" : "2461"},
+{ "Country" : "United Arab Emirates" , "Population" : "59761"},
+{ "Country" : "USA" , "Population" : "46973283"},
+{ "Country" : "Venezuela" , "Population" : "504837"}
+
+     ]
+}
