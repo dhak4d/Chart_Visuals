@@ -23,22 +23,23 @@ const Bar3DChart = () => {
   });
 
   return (
-    <div style={{ display: 'flex', justifyContent: 'center', marginTop:'40px'}}>
+    <>
+    <h3 style={{textAlign:'center'}}>3D Bar Chart</h3>
+    <div style={{ display: 'flex', justifyContent: 'center', marginTop:'10px'}}>
     <Bar
       chartType="ColumnChart"
       data={chartData}
       options={{
         title: 'Sum of Profits by Industrial Sector',
         is3D: true,
-        // legend:{position:"bottom"},
-        chartArea: { width: '50%' },
+        chartArea: { width: '60%' },
         hAxis: {
           title: 'Sum of Profits',
           minValue: 0,
         },
         vAxis: {
           title: 'Industrial Sector',
-         
+          
         },
       }}
       width="100%"
@@ -46,6 +47,7 @@ const Bar3DChart = () => {
       legendToggle
       />
     </div>
+    </>
   );
 };
 

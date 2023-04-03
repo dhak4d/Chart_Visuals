@@ -25,20 +25,18 @@ const GeoChart = () => {
 
   return (
     <>
-    <h4 style={{textAlign:'center',marginTop:'15px' }}>Population Explorer</h4>
+    <h4 style={{textAlign:'center',marginTop:'15px' }}>Population Explorer(GeoChart)</h4>
     <div style={{ marginTop:'50px', color:'black' }}>
     <Chart
       chartType="GeoChart"
       data={chartData}
       options={{
         title: 'Population Explorer',
-        colorAxis: { colors: ['#78ADD2', '#0072AA', '#A4D0A0', '#21AA47'] }
-        
+        colorAxis: { colors: ['#78ADD2', '#0072AA', '#A4D0A0', '#21AA47'] } 
       }}
       width="100%"
       height="400px"
     />
-  
     </div>
     </>
   );
